@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" modified="2021-02-16T14:36:21.931Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="_aXhFAXMGoVb7zRoekv2" version="14.3.2" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="748" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N45hfUq-R4wHVmBLOFnp-0" target="N45hfUq-R4wHVmBLOFnp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="80" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-1" value="Data Extraction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N45hfUq-R4wHVmBLOFnp-2" target="N45hfUq-R4wHVmBLOFnp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="80" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-3" value="Data Lake" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="300" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N45hfUq-R4wHVmBLOFnp-4" target="N45hfUq-R4wHVmBLOFnp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="80" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-5" value="Data Warehouse" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="485" y="300" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-6" value="Data Visualization&lt;br&gt;(Client application)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="80" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-14" value="&lt;h1&gt;Questions:&lt;/h1&gt;&lt;p&gt;- Should I work with AWS or Google BigQuery? The website actually mentioned that I should work with BigQuery as Data Warehouse solution.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="400" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="115" y="90" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="115" y="130" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="115" y="170" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="115" y="210" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-19" value="CSV files" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-20" value="EL Pipeline" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-23" value="Knowledge Graph &lt;br&gt;Data Storage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="485" y="245" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="100" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="180" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="150" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="135" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-33" value="" style="endArrow=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N45hfUq-R4wHVmBLOFnp-24" target="N45hfUq-R4wHVmBLOFnp-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="390" as="sourcePoint" />
+            <mxPoint x="460" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-36" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N45hfUq-R4wHVmBLOFnp-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="390" as="sourcePoint" />
+            <mxPoint x="550" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-37" value="ELT/ETL Pipeline" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-38" value="Client-server interaction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N45hfUq-R4wHVmBLOFnp-39" value="&lt;h1&gt;Link:&lt;/h1&gt;&lt;p&gt;https://www.gdeltproject.org/data.html&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Click on Global Knowledge Graph for data.&lt;/p&gt;&lt;p&gt;- Also, the GDELT Event Database is a backup option for data.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="400" width="190" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
